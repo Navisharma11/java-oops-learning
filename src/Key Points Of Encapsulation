@@ -1,0 +1,18 @@
+//Encapsulation
+//
+//Definition:
+//
+//Encapsulation is the process of giving controlled access to data members (instance variables) of a class by making them private and using getters and setters.
+//
+//Key Points:
+//
+//It is the process of binding data members and methods into a single unit.
+//It provides security to important components (data members) by:
+//Making them private
+//Allowing access through setters and getters
+//
+//How to achieve Encapsulation:
+//
+//Use private keyword
+//Use setter methods
+//Use getter methods

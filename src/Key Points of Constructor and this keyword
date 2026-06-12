@@ -1,0 +1,20 @@
+//Constructor
+//
+//Definition:
+//
+//A constructor is a special method whose name is the same as the class name and it does not have any explicit return type.
+//
+//Key Points:
+//
+//Constructor is invoked (called) automatically during object creation.
+//If a programmer does not define any constructor, then:
+//The Java compiler automatically provides a default constructor
+//This default constructor is zero-parameter (no arguments)
+//If there is a constructor coded in a class then java compiler would not include any default constructor
+//We can have multiple constructors in a class. Creating multiple constructors with same name and different parameters is reffered as Constructor overloading
+
+// to be continued........
+
+//this keyword:
+//this keyword will have address of currently running instance/object i.e. currently whichever object is getting executed it will refer to that object instance.
+//It will be used inside setter and constructor to differentiate local and instance variable and to assign data to instance variable from local variable. Solution for shadowing problem)
