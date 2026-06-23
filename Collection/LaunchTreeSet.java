@@ -12,6 +12,7 @@ public class LaunchTreeSet
         ts.add(75);
         ts.add(125);
         ts.add(175);
+//        ts.add(null);
 
         System.out.println(ts);
 //        ts.add(125);

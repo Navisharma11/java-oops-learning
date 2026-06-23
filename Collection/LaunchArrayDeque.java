@@ -14,6 +14,7 @@ public class LaunchArrayDeque
         ad.addLast(200);
         System.out.println(ad);
         ad.add(40);
+//        ad.add(null);
         System.out.println(ad);
     }
 }

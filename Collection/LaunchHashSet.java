@@ -15,6 +15,7 @@ public class LaunchHashSet
 //        hs.add(175);
 //        System.out.println(hs);
 //        hs.add(50);
+//        hs.add(null);
 //        System.out.println(hs);
 
 
@@ -28,6 +29,7 @@ public class LaunchHashSet
         hs.add(125);
         hs.add(175);
         hs.add(50);
+        hs.add(null);
         System.out.println(hs);
 
     }

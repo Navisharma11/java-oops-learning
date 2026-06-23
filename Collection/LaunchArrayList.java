@@ -27,6 +27,7 @@ public class LaunchArrayList
         System.out.println(al2.contains(20));
         System.out.println(al2.contains(al));
         al2.add(10);
+        al2.add(null);
         System.out.println(al2);
     }
 }

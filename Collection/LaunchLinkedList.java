@@ -26,6 +26,7 @@ public class LaunchLinkedList
         System.out.println(ll1.poll());
         System.out.println(ll1);
         ll1.add("Telusko");
+        ll1.add(null);
         System.out.println(ll1);
 
 

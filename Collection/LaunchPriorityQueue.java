@@ -15,6 +15,7 @@ public class LaunchPriorityQueue
 
         System.out.println(pq);
         pq.add(125);
+//        pq.add(null);
         System.out.println(pq);
 
     }
